@@ -1,8 +1,8 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name : Harini.B
+Name : Parshwanath M
 
-Roll no : 212221230035
+Roll no : 212221230073
 
 Date of experiment : 14-10-2022
 
@@ -198,13 +198,13 @@ int main(void)
 ## Proteus simulation 
 
 ### DISPLAY OFF
-![Harini 401](https://user-images.githubusercontent.com/93427253/195962997-2687b2c3-d5a7-4043-afc9-0faef76a0602.png)
+![output](exp4(1).png)
 
 ### DISPLAY ON
-![Harini 402](https://user-images.githubusercontent.com/93427253/195963031-11efa5c2-a340-4fa2-8771-f0c353c27d13.png)
+![output](exp4(2).png)
 
 ##  Layout Diagram 
-![Harini 403](https://user-images.githubusercontent.com/93427253/195963052-a7025458-becb-4773-b3ce-344524803d31.png)
+![output](exp4(3).png)
 
 ## Result :
 Interfaced an LCD with ARM microcontroller is executed and displayed the strings  
